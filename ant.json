@@ -1,0 +1,51 @@
+[
+{
+    "className" : " BCC English",
+    "Teacher" : "Mathew Sauter",
+    "roomNumber" : "E111",
+    "period" : "1",
+    "subjetArea" : "English"
+},
+{
+    "className" : "Financial Literacy",
+    "Teacher" : "Kevin Morgan",
+    "roomNumber" : "A132",
+    "period" : "2",
+    "subjetArea" : "Buisness"
+},
+{
+    "className" : "Advanced Algebra and Trig",
+    "Teacher" : "William Daley",
+    "roomNumber" : "A223",
+    "period" : "3",
+    "subjetArea" : "Math"
+},
+{
+    "className" : "Applied Art",
+    "Teacher" : " Johanna Zeller",
+    "roomNumber" : "D105",
+    "period" : "4",
+    "subjetArea" : "Art"
+},
+{
+    "className" : "Senior Leave",
+    "Teacher" : "Katherine Tsakiris",
+    "roomNumber" : "Media",
+    "period" : "5",
+    "subjetArea" : "Recess"
+},
+{
+    "className" : "physical Ed",
+    "Teacher" : "Scollo Lindsay",
+    "roomNumber" : "Gym",
+    "period" : "6",
+    "subjetArea" : "Gym"
+},
+{
+    "className" : "Honors NJIT Web Design",
+    "Teacher" : "Greg",
+    "roomNumber" : "B111",
+    "period" : "7",
+    "subjetArea" : "Hell"
+}
+]
