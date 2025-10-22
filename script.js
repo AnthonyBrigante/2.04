@@ -9,7 +9,6 @@ document.getElementById("friendSelect").addEventListener("change", function() {
     .then(response => response.json())
     .then(data => {
       data.forEach(item => {
-        // handle key differences between files
         const className = item.className || item.classname || "N/A";
         const teacher = item.Teacher || item.teacher || "N/A";
         const room = item.roomNumber || "N/A";
